@@ -1,0 +1,351 @@
+Lab 10: Using Microsoft Copilot for Sales app in Microsoft Teams and
+using conversation intelligence dashboard (preview)
+
+**Note:** You may switch to lab number 11 if the product is not
+available. You can perform this lab later based on the availability.
+
+Exercise 1: Install and pin Microsoft Copilot for Sales in Teams
+
+Task 1: Create a custom Teams app setup policy
+
+1.  Sign-in to the **Microsoft Teams admin
+    center** - [***https://admin.teams.microsoft.com/dashboard***](urn:gd:lg:a:send-vm-keys)
+
+2.  In the left pane, select **Teams apps \> Setup policies**.
+
+> ![Screenshot](./media/image1.png)
+
+3.  On the **Manage policies** tab, select **Add**.
+
+> ![Screenshot](./media/image2.png)
+
+4.  Enter [***Assign Copilot
+    permissions***](urn:gd:lg:a:send-vm-keys) in the **Name** field.
+
+5.  Turn on **User pinning**.
+
+> ![Screenshot](./media/image3.png)
+
+6.  Under **Installed apps**, select **Add apps**.
+
+> ![Screenshot](./media/image4.png)
+
+7.  In the **Add installed apps** panel, search for the **Copilot for
+    Sales** app. You can also filter apps by app permission policy
+
+8.  Hover the mouse over **Copilot for Sales** and click on Select.
+
+> ![Screenshot](./media/image5.png)
+
+9.  Select **Add** again to install the listed apps.
+
+> ![Screenshot](./media/image6.png)
+
+10. Under **Pinned apps**, select **Add apps**.
+
+> ![Screenshot](./media/image7.png)
+
+11. In the **Add pinned** apps panel, search for the **Copilot for
+    Sales** app. You can also filter apps by app permission policy.
+
+> ![Screenshot](./media/image8.png)
+
+12. Hover the mouse over **Copilot for Sales** and click on **Select**.
+
+> ![Screenshot](./media/image9.png)
+
+13. Select **Add** again to pin the listed apps.
+
+> ![Screenshot](./media/image10.png)
+
+14. Under **App bar** or **Messaging extensions**, arrange the apps in
+    the order that you want them to appear in Teams.
+
+15. Select **Save**.
+
+> ![Screenshot](./media/image11.png)
+
+16. Open a new tab in your browse and browse to Microsoft Teams webapp
+    using the given link
+    - [***https://teams.microsoft.com/\_#/apps/c92c289e-ceb4-4755-819d-0d1dffdab6fa/sections/homeTab***](urn:gd:lg:a:send-vm-keys)
+
+17. Sign-in with your **Office 365 admin tenant** credentials.
+
+18. You can see the **Microsoft Copilot for Sales** app pinned
+    in **Teams**.
+
+> ![Screenshot](./media/image12.png)
+
+19. If you don’t see the app pinned, select Apps from left side pane,
+    search for Copilot for Sales and select Add.
+
+> ![Screenshot](./media/image13.png)
+
+20. Select **Add**.
+
+> ![Screenshot](./media/image14.png)
+
+Task 2: Schedule a Microsoft Teams meeting from Outlook
+
+1.  Go to **App launcher**.
+
+> ![Screenshot](./media/image15.png)
+
+2.  Select **Outlook**.
+
+> ![Screenshot](./media/image16.png)
+
+3.  Select **Calendar** from the left navigation pane. Select **New
+    event \> Event**.
+
+> ![Screenshot](./media/image17.png)
+
+4.  Give the name to the meeting – [***Sales Copilot Test
+    Meeting***](urn:gd:lg:a:send-vm-keys), select current date and
+    select time (set it to 10 minutes later from the current time).
+
+> ![Screenshot](./media/image18.png)
+
+5.  In the field of **Invite attendees**, enter **your email id**.
+    Ensure that **Teams meeting** toggle button is **On**. Now
+    select **Send**.
+
+> ![Screenshot](./media/image19.png)
+
+6.  Now go to the **Teams** app, select **Calendar**. You can see the
+    newly scheduled meeting. Click on the meeting.
+
+> ![Screenshot](./media/image20.png)
+
+7.  Select **Edit**.
+
+> ![Screenshot](./media/image21.png)
+
+8.  Select **+** icon from the menu bar at the top.
+
+> ![Screenshot](./media/image22.png)
+
+9.  Select **Copilot for Sales**.
+
+> ![Screenshot](./media/image23.png)
+
+10. Select **Save**.
+
+> ![Screenshot](./media/image24.png)
+
+11. Select **Join** to join the meeting.
+
+> ![Screenshot](./media/image25.png)
+
+12. Select **Join** again.
+
+> ![Screenshot](./media/image26.png)
+
+13. You will get notification from MOD Admin for joining the meeting
+    from your Teams app. Select **Join**.
+
+> ![Screenshot](./media/image27.png)
+
+14. Mute the audio and select **Join now**.
+
+> ![Screenshot](./media/image28.png)
+
+15. On the Mod Admin’s Team web app, you will get notification
+    that **Waiting in the lobby**. Select **Admit**.
+
+> ![Screenshot](./media/image29.png)
+
+16. Select **More \> Record** and **Transcribe \> Start recording**.
+
+> ![Screenshot](./media/image30.png)
+
+17. You can talk something as MOD Admin to generate transcript.
+    (Example - You can explain what is Sales Copilot).
+
+> ![Screenshot](./media/image31.png)
+
+18. Leave the meeting from Mod Admin’s Teams web app and your Teams app.
+
+19. Select **Chat** from left navigation pane then select **Copilot for
+    Sales**.
+
+> ![Screenshot](./media/image32.png)
+
+20. Select **Open summary**.
+
+> ![Screenshot](./media/image33.png)
+
+21. You can now see summary generated by Copilot for Sales.
+
+> ![Screenshot](./media/image34.png)
+
+Exercise 2: Share a CRM record in Teams
+
+1.  Go to the **Outlook** account of the Mod Admin, open an email or the
+    scheduled meeting.
+
+2.  Open the **Copilot for Sales** pane. Click **Save email to Dynamics
+    365**.
+
+> ![Screenshot](./media/image35.png)
+
+3.  On the **First, turn on server-side sync** dialog, select **Turn
+    on**.
+
+> ![Screenshot](./media/image36.png)
+
+4.  On **Connect to a record** page, search for the contact alex using
+    the search box.
+
+> ![Screenshot](./media/image37.png)
+
+5.  Select the contact and click **Save**.
+
+> ![Screenshot](./media/image38.png)
+
+6.  Once the email is saved to the record of the selected contact, a
+    message is displayed on the **Copilot for Sales** pane.
+
+> ![Screenshot](./media/image39.png)
+
+7.  Select the contact. You will be navigated to the **Contact
+    details** page.
+
+> ![Screenshot](./media/image40.png)
+
+8.  On the **Contact details** page, go to the **Opportunities** area
+    and hover the mouse over one of the opportunities, for example -- 50
+    Café A-100 Automatic, click on more options (... 3 dots),
+    select **Teams** and then select **+ Set up deal room**.
+
+> ![Screenshot](./media/image41.png)
+
+9.  Select **Use an existing team**.
+
+> ![Screenshot](./media/image42.png)
+
+10. Select **Test Team** and then select **Next**.
+
+> ![Screenshot](./media/image43.png)
+
+11. Keep the channel as is, select the privacy as **Standard**, check
+    the checkbox of **Include shared channel** and then select **Set up
+    team**.
+
+> ![Screenshot](./media/image44.png)
+
+12. Go to the Teams app. Select **50 Café A-100 Automatic** channel
+    under **Test Team** team. The following screenshot shows an example
+    of a deal room team for the 50 Café A-100 Automatic.
+
+> ![Screenshot](./media/image45.png)
+
+13. Click on **Reply** under Copilot for Sales message and then
+    select **+ icon** to open actions and apps.
+
+> ![Screenshot](./media/image46.png)
+
+14. Select **Copilot for Sales** app.
+
+> ![Screenshot](./media/image47.png)
+
+15. Type alex in the search box and then select **Alex Baker** contact.
+
+> ![Screenshot](./media/image48.png)
+
+16. Now, click on **send icon** to send the record.
+
+> ![Screenshot](./media/image49.png)
+
+17. Click on View record and you will see contact details.
+
+> ![Screenshot](./media/image50.png)
+
+Exercise 3: Analyze your sellers' conversation data with Power BI
+(preview)
+
+Task 1: Download the Copilot for Sales dashboard app
+
+1.  To download the Copilot for Sales - Conversation intelligence
+    dashboard, go
+    to [***https://go.microsoft.com/fwlink/p/?linkid=2259835***](https://go.microsoft.com/fwlink/p/?linkid=2259835) Select **Get
+    it now**.
+
+> ![Screenshot](./media/image51.png)
+
+2.  You will be navigated to Power BI Apps. Select **Install** on
+    'Install this Power BI app' window.
+
+> ![Screenshot](./media/image52.png)
+
+3.  You can see the Copilot for Sales -- Dashboard under the Apps list.
+    Click on the **Copilot for Sales -- Dashboard** to open it.
+
+> ![Screenshot](./media/image53.png)
+
+4.  The following pages are available in your report:
+
+- Coaching opportunities
+
+- Customer insights
+
+- Call recordings
+
+> ![Screenshot](./media/image54.png)
+
+5.  You can use the **Time period filter** and **Data filters** in your
+    report.
+
+> ![Screenshot](./media/image55.png)
+
+6.  Select **Coaching opportunities page** from the left navigation
+    pane. It displays conversational KPIs and summary charts for the
+    selected time period.
+
+> ![Screenshot](./media/image56.png)
+
+7.  Select **Customer insights page** from the left navigation pane. It
+    displays customer sentiment and the top brands that your customers
+    are talking about.
+
+> ![Screenshot](./media/image57.png)
+
+8.  Select **Conversation recordings** page from the left navigation
+    pane. This page helps you listen to call recordings and understand
+    the context of the conversation.
+
+> ![Screenshot](./media/image58.png)
+
+Task 2: Connect the dashboard to your organization's data
+
+When you download Copilot for Sales - Conversation intelligence
+dashboard from Microsoft AppSource, it includes sample data. To connect
+the dashboard to your own data in Dataverse, follow these steps:
+
+1.  Considering the downloaded Copilot for Sales dashboard is opened
+    already, select **Connect your data**.
+
+> ![Screenshot](./media/image59.png)
+
+2.  Enter the following information:
+
+> a. **EnvironmentPath**: URL to your Sales trial Dataverse environment.
+> You must remove the https:// prefix from the environment path URL you
+> enter. (To get URL, go to Power platform admin center. Select
+> Environments from left navigation pane, click on Sales trial and copy
+> the Environment url)
+>
+> b. **CRM type**: Type of CRM you're using -- **Dynamics**.
+>
+> c\. Select **Next**.
+>
+> ![Screenshot](./media/image60.png)
+
+3.  Select an authentication method -- **OAuth2** and privacy level
+    settings - **None** for your data source. Select **Sign in and
+    connect**.
+
+> ![Screenshot](./media/image61.png)
+
+4.  After the dashboard is connected successfully to the organization's
+    data, you can edit the report and publish it.
