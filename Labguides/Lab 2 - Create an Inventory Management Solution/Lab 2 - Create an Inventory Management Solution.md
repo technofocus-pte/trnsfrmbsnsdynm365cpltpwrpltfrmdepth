@@ -1,5 +1,4 @@
-**Lab 2 - Create an Inventory Management Solution with Automated
-Restocking flow**
+# **Lab 2 - Create an Inventory Management Solution with Automated Restocking flow**
 
 **Objective:** In this lab, you will learn to use Copilot in Microsoft
 Power Apps and Power Automate to design and implement an end-to-end
@@ -7,9 +6,9 @@ inventory management solution. You will learn to create a
 Dataverse-backed canvas app for managing inventory data and to automate
 inventory restocking using an approval-based workflow.
 
-**Exercise 1: Build an Inventory Management App**
+## **Exercise 1: Build an Inventory Management App**
 
-**Task 1: Create an inventory management app using Copilot.**
+### **Task 1: Create an inventory management app using Copilot.**
 
 1.  Open a browser and go to +++https://make.powerapps.com+++ sign in with Office 365 admin tenant credentials.
 
@@ -107,9 +106,9 @@ inventory restocking using an approval-based workflow.
 
      ![](./media/image20.png)
 
-**Exercise 2: Create a Power Automate flow to restock the inventory**
+## **Exercise 2: Create a Power Automate flow to restock the inventory**
 
-**Task 1: Create an automated flow to trigger restock email**
+# **Task 1: Create an automated flow to trigger restock email**
 
 1.  Log in to **Power Automate** using +++https://make.powerautomate.com/+++ with your Office 365 Tenant credentials. Select     the **Dev One** environment from the environment selector.
 
@@ -353,7 +352,7 @@ inventory restocking using an approval-based workflow.
 
      ![](./media/image66.png)
 
-**Task 2: Test the restock flow**
+### **Task 2: Test the restock flow**
 
 1.  Switch back to the **Power Apps** tab or open it using +++https://make.powerapps.com/+++. From the left pane, select
     Apps and then open the **Candy Inventory Management App**.
