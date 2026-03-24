@@ -47,7 +47,7 @@
 
      ![A screenshot of a computer AI-generated content may be incorrect.](./media/image9.png)
 
-## **Exercise 2: Create a team in Microsoft Teams **
+## **Exercise 2: Create a team in Microsoft Teams**
 
 **Task 1: Create a team in Microsoft Teams**
 
