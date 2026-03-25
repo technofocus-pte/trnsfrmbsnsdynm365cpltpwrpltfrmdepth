@@ -4,16 +4,15 @@
 
 ## **Exercise 1: Add your Data**
 
-1.  Access your **Customer Insights - Data** environment using the given
-    link +++**https://home.ci.ai.dynamics.com/**+++.
+1.  Access your **Customer Insights - Data** environment using the given link +++**https://home.ci.ai.dynamics.com/**+++.
 
     **Note**: Close the pop-up – introducing Copilot in Customer Insights – Data.
     
      ![](./media/image1.png)
 
-2.  From the left navigation, select **Data** \> **Data sources**.
+2.  From the left navigation, select **Data** > **Data sources**.
 
-> ![](./media/image2.png)
+     ![](./media/image2.png)
 
 2.  Select **Add a data source**.
 
