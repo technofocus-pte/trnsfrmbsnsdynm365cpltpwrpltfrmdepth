@@ -1,5 +1,7 @@
 # **Lab 12: Create an AI-assisted customer journey with Copilot in Customer Insights - Journeys**
 
+**Objective**: In this lab, you will learn how to use Copilot in Customer Insights – Journeys to automatically build an AI-assisted customer journey. You will learn how to generate a multi-step journey from a natural language prompt, create and configure a segment, review Copilot-generated journey steps, assign emails to journey activities, configure journey frequency and start times, and publish a complete automated journey.
+
 ## **Exercise 1: Using the journey copilot**
 
 Now, let's imagine you want to create a welcome journey for people who
@@ -9,72 +11,67 @@ recently joined your program. To create a journey with Copilot,
 
 2.  Select the **Journey** tab under **Engagement**.
 
-> ![](./media/image1.png)
+     ![](./media/image1.png)
 
 3.  Then select **New Journey**, which opens the journey copilot window.
 
-> ![](./media/image2.png)
+     ![](./media/image2.png)
 
-4.  Enter !\![**Create a journey that will send a welcome email to all
-    customers that are part of the MySegment segment. After two days,
-    send them an exclusive offer email.**](urn:gd:lg:a:send-vm-keys)!!
-    And then select the **Send** icon.
+4.  Enter +++**Create a journey that will send a welcome email to all customers that are part of the MySegment segment. After two days, send them an exclusive offer email.**+++ And then select the **Send** icon.
 
-> ![](./media/image3.png)
+     ![](./media/image3.png)
 
 5.  Copilot processes the prompt and asks to select Segment. To create a
     segment, click on the field given to enter the segment name and then
     select **+ New**.
 
-> ![](./media/image4.png)
+     ![](./media/image4.png)
 
 6.  Name the segment as !!**MySegment**!! and select **Contact** a
     target audience.
 
-> ![](./media/image5.png)
+     ![](./media/image5.png)
 
 7.  Select **Save**. If this gives you an error, ignore it and go to the
     next step without saving.
 
-> ![](./media/image6.png)
+     ![](./media/image6.png)
 
 8.  Under the **Elements** pane, select more options (3 dots) next to
     segments and then select **Include Contacts.**
 
-> ![](./media/image7.png)
+     ![](./media/image7.png)
 
 9.  Click on the **first contact** under the Include member panel.
 
-> ![](./media/image8.png)
+     ![](./media/image8.png)
 
 10. You can see the contact is added on the left side under Include
     contacts.
 
-> ![](./media/image9.png)
+     ![](./media/image9.png)
 
 11. Select **Save**.
 
-> ![](./media/image10.png)
+     ![](./media/image10.png)
 
 12. Select **Ready to use**. Close the MySegment pane.
 
-> ![](./media/image11.png)
->
-> ![](./media/image12.png)
+     ![](./media/image11.png)
+
+     ![](./media/image12.png)
 
 13. Now again execute the New Journey creating step, enter the previous
     prompt. It automatically detected the segment and each subsequent
     step clearly.
 
-> [**Create a journey that will send a welcome email to all customers
-> that are part of the MySegment segment. After two days, send them an
-> exclusive offer email.**](urn:gd:lg:a:send-vm-keys)
->
-> ![](./media/image13.png)
+     +++Create a journey that will send a welcome email to all customers  that are part of the MySegment segment. After two days, send them an exclusive offer email.+++
+    
+     ![](./media/image13.png)
 
 14. Select **Update this journey**.
 
-> ![](./media/image14.png)
+     ![](./media/image14.png)
 
 15. Once you're satisfied with the suggested journey, select **Create
     journey**, and the journey will be automatically created for you.
@@ -82,32 +79,32 @@ recently joined your program. To create a journey with Copilot,
     right side to provide feedback on the copilot and help it improve
     over time.
 
-> ![](./media/image15.png)
+     ![](./media/image15.png)
 
 16. Select MySegment step. Select the frequency as **one time journey
     with a static audience** and select the **future time** for the
     start time journey.
 
-> ![](./media/image16.png)
->
-> ![](./media/image17.png)
+     ![](./media/image16.png)
+    
+     ![](./media/image17.png)
 
-17. Select **Welcome Email** (2^(nd) step). Click in the **Select
-    email** field and select **Email 1**.
+17. Select **Welcome Email** (second step). Click in the **Select email** field and select **Email 1**.
 
-> ![](./media/image18.png)
+     ![](./media/image18.png)
 
-18. Select **Exclusive offer** (4^(th) step). Click in the **Select
-    email** field and select **Email 1**.
+18. Select **Exclusive offer** (fourth step). Click in the **Select email** field and select **Email 1**.
 
-> ![](./media/image19.png)
+     ![](./media/image19.png)
 
 19. Select **Save**.
 
-> ![](./media/image20.png)
+     ![](./media/image20.png)
 
 20. Select **Publish**.
 
-> ![Screenshot](./media/image21.png)
->
-> ![](./media/image22.png)
+     ![Screenshot](./media/image21.png)
+    
+     ![](./media/image22.png)
+
+**Summary**: In this lab, you learned how to generate a journey from a text prompt and create the supporting segment (MySegment). You reviewed and updated the Copilot-generated journey, assigned the required emails to each step, set scheduling parameters, and published the final journey.
