@@ -1,5 +1,7 @@
 # **Lab 6: Solve customer issues faster with Copilot in Dynamics 365 Customer Service**
 
+**Objective**: In this lab, you will learn how to use Copilot in Dynamics 365 Customer Service to accelerate case resolution. You will learn how Copilot generates AI-driven case summaries, responds to technical and troubleshooting queries using available knowledge sources, and assists in drafting customer-ready emails through predefined and custom prompts.
+
 ## **Exercise 1: Summarize cases**
 
 Copilot case summaries help you to quickly understand the context of a
@@ -8,57 +10,50 @@ includes key information such as the case title, customer, subject,
 product, priority, case type, and description.
 
 1.  To navigate to your **Customer Service workspace**, go to
-    the **Power Platform admin center** using the given
-    link [**https://admin.powerplatform.microsoft.com**](urn:gd:lg:a:send-vm-keys).
+    the **Power Platform admin center** using the given link +++https://admin.powerplatform.microsoft.com+++.
 
-2.  From the left navigation pane,
-    select **Manage** \> **Environments** and then select **Customer
-    Service Trial** environment.
+2.  From the left navigation pane, select **Manage** > **Environments** and then select **Customer Service tial** environment.
 
-> ![](./media/image1.png)
+     ![](./media/image1.png)
 
-3.  On the **Customer Service Trial** environment page, click on
-    the **Environment URL**.
+3.  On the **Customer Service Trial** environment page, click on the **Environment URL**.
 
-> ![](./media/image2.png)
+     ![](./media/image2.png)
 
 4.  You will be navigated to the **Copilot Service admin center**.
     Select the **Copilot Service admin center**.
 
-> ![](./media/image3.png)
+     ![](./media/image3.png)
 
 5.  Select the **Copilot service workspace**.
 
-> ![](./media/image4.png)
+     ![](./media/image4.png)
 
 6.  Select the **Customer Service Representative Dashboard**.
 
-> ![](./media/image5.png)
->
-> **Note**: If you receive any error regarding setting up presence, you
-> can still continue or wait till you see a green checkmark in the right
-> corner of the screen.
->
-> ![](./media/image6.png)
+     ![](./media/image5.png)
 
-7.  Select one of the cases listed on the **Customer Service
-    Representative Dashboard**. For example, **A Mineral Build Up in
+     **Note**: If you receive any error regarding setting up presence, you can still continue or wait till you see a green checkmark in the right corner of the screen.
+    
+     ![](./media/image6.png)
+
+7.  Select one of the cases listed on the **Customer Service Representative Dashboard**. For example, **A Mineral Build Up in
     Water Supply**.
 
-> ![](./media/image7.png)
+     ![](./media/image7.png)
 
 8.  The **Case summary** appears as a card on the case form. When you
     open a case, the **Summary** card is collapsed by default.
 
-> ![](./media/image8.png)
+     ![](./media/image8.png)
 
 9.  Expand the **Summary** tab.
 
-> ![](./media/image9.png)
+     ![](./media/image9.png)
 
 10. You can see the generated case summary.
 
-> ![](./media/image10.png)
+     ![](./media/image10.png)
 
 ## **Exercise 2: Draft questions**
 
@@ -66,33 +61,27 @@ product, priority, case type, and description.
     of the sample cases, for example, **A Mineral Build Up in Water
     Supply**.
 
-> ![](./media/image7.png)
->
-> You can ask free-form questions just as you'd ask your colleague or
-> supervisor who might know the answers.
+     ![](./media/image7.png)
+    
+     You can ask free-form questions just as you'd ask your colleague or supervisor who might know the answers.
 
 2.  In the **Copilot** pane, which is opened on the right side of the
-    screen, type [**What is mineral built up in water
-    supply?**](urn:gd:lg:a:send-vm-keys) and select the **Send** icon.
+    screen, type +++**What is mineral built up in water supply?**+++ and select the **Send** icon.
 
-> **Note**: The Copilot setup process may take some time to complete. To
-> optimize your lab session, save your progress and proceed to the next
-> lab activity. You can return to this lab once the Copilot setup is
-> complete to continue from where you left off.
->
-> ![](./media/image11.png)
+     **Note**: The Copilot setup process may take some time to complete. To
+     optimize your lab session, save your progress and proceed to the next
+     lab activity. You can return to this lab once the Copilot setup is
+     complete to continue from where you left off.
+    
+     ![](./media/image11.png)
 
 3.  You can now see that **Copilot** has answered your question.
 
-> ![](./media/image12.png)
+     ![](./media/image12.png)
 
-4.  You can ask more questions like, what to do........ or how to fix
-    the issue of clogging in the smart brew system, or [**What to do if
-    water doesn't come consistently in smart brew
-    system?**](urn:gd:lg:a:send-vm-keys) and click on the
-    **Send** icon. **Copilot** will give a response to your question.
+4.  You can ask more questions like, what to do........ or how to fix the issue of clogging in the smart brew system, or +++**What to do if water doesn't come consistently in smart brew system?**+++ and click on the   **Send** icon. **Copilot** will give a response to your question.
 
-> ![](./media/image13.png)
+     ![](./media/image13.png)
 
 5.  With **Copilot**, you can take the following actions:
 
@@ -106,12 +95,9 @@ product, priority, case type, and description.
     - **Ask Copilot to attempt a better response**: Copilot can also
       rephrase responses based on more guidance.
 
-> For example, **type**, **[Can you summarize your
-> response?](urn:gd:lg:a:send-vm-keys) or [Can you attempt a response
-> providing details for each of the steps you
-> mentioned?](urn:gd:lg:a:send-vm-keys)**
->
-> ![](./media/image14.png)
+     For example, **type**, +++**Can you summarize your response?**+++ or +++**Can you attempt a response providing details for each of the steps you mentioned?**+++
+    
+     ![](./media/image14.png)
 
 6.  If you're satisfied with the response Copilot provides, you can use
     the whole response or a part of it to answer the customer's
@@ -121,55 +107,55 @@ product, priority, case type, and description.
       a voice conversation. Select the **Copy** icon to copy the entire
       response to the clipboard.
 
-> ![](./media/image15.png)
->
-> **Note**: When you're in an active digital messaging conversation,
-> select Send to customer to open an editing window where you can revise
-> the response and send it to the customer. You can also change customer
-> keywords to prompt Copilot to generate a more accurate response.
+     ![](./media/image15.png)
+
+     **Note**: When you're in an active digital messaging conversation,
+     select Send to customer to open an editing window where you can revise
+     the response and send it to the customer. You can also change customer
+     keywords to prompt Copilot to generate a more accurate response.
 
 7.  Select **Check sources** to see the knowledge base or website links
     from which Copilot drew the response. You can use this supplemental
     information as a resource or share it with the customer.
 
-> ![](./media/image16.png)
->
-> ![](./media/image17.png)
+     ![](./media/image16.png)
+    
+     ![](./media/image17.png)
 
 8.  Click on the link, and then you can see the content on the left
     side.
 
-> ![](./media/image18.png)
+     ![](./media/image18.png)
 
 9.  Close the newly opened tab.
 
-> ![](./media/image19.png)
+     ![](./media/image19.png)
 
 10. To rate the usefulness of Copilot's responses, select the thumbs-up
     or thumbs-down icon.
 
-> ![](./media/image20.png)
+     ![](./media/image20.png)
 
 11. After a customer conversation has ended, or if you want Copilot to
     disregard the conversation so far, select **Clear chat** at the top
     of the **Copilot** pane.
 
-> ![](./media/image21.png)
+     ![](./media/image21.png)
 
 ## **Exercise 3: Draft emails**
 
 1.  Select the **Write an email** tab on the **Copilot** pane.
 
-> ![](./media/image22.png)
+     ![](./media/image22.png)
 
 2.  On the case overview page, select the **Related** tab and then
     select **Activities.**
 
-> ![](./media/image23.png)
+     ![](./media/image23.png)
 
-3.  Select **+ New Activity \> Email**.
+3.  Select **+ New Activity > Email**.
 
-> ![](./media/image24.png)
+     ![](./media/image24.png)
 
 4.  When you start to draft an email, Copilot opens in the right side
     panel and presents five predefined prompts and one custom prompt:
@@ -193,28 +179,30 @@ product, priority, case type, and description.
 
     - **Custom**: Allows you to provide your own prompt for the reply.
 
-> ![](./media/image25.png)
+     ![](./media/image25.png)
 
 5.  Select any prompt from the predefined prompts list. For example,
     select **Resolve the customer’s problem** from the suggestions.
 
-> ![](./media/image26.png)
+     ![](./media/image26.png)
 
 6.  You can see that Copilot has generated a suggestion.
 
-> ![](./media/image27.png)
+     ![](./media/image27.png)
 
 7.  You can now review the response. Make any necessary changes, and
     then select **Copy** to copy the entire response to your draft. Or
     select part of the response and use the right-click menu to copy and
     paste the selection.
 
-> ![](./media/image28.png)
+     ![](./media/image28.png)
 
 8.  Response is now available in the body part on the left side.
 
-> ![](./media/image29.png)
+     ![](./media/image29.png)
 
 9.  Now you can send the email or save it.
 
-> ![](./media/image30.png)
+     ![](./media/image30.png)
+
+**Summary**: In this lab, you learned how Copilot summarizes case information, provides conversational guidance through natural language questions, and offers tailored email drafts for different customer service scenarios. You also used Copilot to refine responses, copy content, and check source references for accuracy.
