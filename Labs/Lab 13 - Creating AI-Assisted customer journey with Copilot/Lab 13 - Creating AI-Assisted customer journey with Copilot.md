@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 13 Creating AI Assisted customer journey with Copilot
+  description: Now, let's imagine you want to create a welcome journey for people who recently joined your program. To create a journey with Copilot,
+  duration: 44 minutes
+  level: 100
+  islab: true
+---
+
 Lab 13: Creating AI-Assisted customer journey with Copilot in Customer
 Insights - Journeys
 
