@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 3 Building an agent in Microsoft Copilot Studio
+  description: In this lab, you'll create an agent by using Copilot in Microsoft Copilot Studio. Additionally, you'll learn how to use the Conversation Booster feature to improve your agent's responses.
+  duration: 15 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft Copilot
+    - Microsoft Copilot Studio
+---
+
 Lab 3: Building a bot in Microsoft Copilot Studio with the new AI
 capabilities
 
