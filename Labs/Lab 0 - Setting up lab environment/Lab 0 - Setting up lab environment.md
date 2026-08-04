@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 0 Setting up lab environment
+  description: error message as ‘Couldn’t create environment’ then follow the steps (a to f) given below and then continue with Styep 9.
+  duration: 130 minutes
+  level: 100
+  islab: true
+---
+
 Lab 0: Setting up lab environment
 
 Exercise 1: Assign Power Apps trial license
