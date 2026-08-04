@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 6 Solving customer issues faster with Copilot
+  description: 'Lab 6: Solving customer issues faster with Copilot in Dynamics 365 Customer Service'
+  duration: 68 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 Lab 6: Solving customer issues faster with Copilot in Dynamics 365
 Customer Service
 
