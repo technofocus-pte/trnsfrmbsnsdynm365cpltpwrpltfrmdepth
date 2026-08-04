@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 10 Using Microsoft Copilot for Sales app in Microsoft Teams
+  description: 'Task 1: Create a custom Teams app setup policy'
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft Copilot
+    - Microsoft Teams
+---
+
 Lab 10: Using Microsoft Copilot for Sales app in Microsoft Teams and
 using conversation intelligence dashboard (preview)
 
