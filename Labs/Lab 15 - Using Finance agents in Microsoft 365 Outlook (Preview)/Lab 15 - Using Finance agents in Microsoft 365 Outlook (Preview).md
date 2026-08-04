@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 15 Using Finance agents in Microsoft 365 Outlook (Preview)
+  description: To install Finance agents in Microsoft 365 Outlook from the Microsoft 365 admin center, follow these steps.
+  duration: 64 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+---
+
 **Lab 15: Using Finance agents in Microsoft 365 Outlook (Preview)**
 
 **Task 1: Install Finance agents in Microsoft 365 Outlook from the
