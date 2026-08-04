@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 2 Automating the approval process
+  description: In this lab, you'll create an automation by using Copilot in Power Automate to automate the approval process for a real estate showing. You'll use Copilot to create a flow that sends an email to the real estate agent when a new showing is requested. Then, the agent can approve or reject the showing request from within the email.
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Power Automate
+---
+
 Lab 2: Automating the approval process for a real estate showing using
 Copilot
 
