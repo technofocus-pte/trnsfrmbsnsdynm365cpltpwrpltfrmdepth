@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 14 Configuring and using Copilot in Dynamics 365 Business Central
+  description: 'Task 1: Configuring and using Copilot and AI capabilities'
+  duration: 64 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 Lab 14: Configuring and using Copilot in Dynamics 365 Business Central
 
 Exercise 1: Signing up for the trial
