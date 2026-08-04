@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 11 Creating segments with Copilot
+  description: 'Exercise 3: Create segments with Copilot for Customer Insights - Data (preview)'
+  duration: 122 minutes
+  level: 100
+  islab: true
+---
+
 Lab 11: Creating segments with Copilot for Customer Insights - Data
 (preview)
 
