@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 5 Creating an AI generated site, webpage using Copilot
+  description: you will be on home page of your newly created website.
+  duration: 76 minutes
+  level: 100
+  islab: true
+---
+
 Lab 5: Creating an AI-generated site, webpage using Copilot (preview)
 and adding other components to pages
 
