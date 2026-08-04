@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 12 Designing and styling emails with AI assisted themes
+  description: 'Lab 12: Designing and styling emails with AI-assisted themes using Copilot in Customer Insights - Journeys'
+  duration: 74 minutes
+  level: 100
+  islab: true
+---
+
 Lab 12: Designing and styling emails with AI-assisted themes using
 Copilot in Customer Insights - Journeys
 
