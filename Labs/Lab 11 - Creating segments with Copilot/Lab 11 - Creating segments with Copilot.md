@@ -1,8 +1,8 @@
 ---
 lab:
   title: Lab 11 Creating segments with Copilot
-  description: 'Exercise 3: Create segments with Copilot for Customer Insights - Data (preview)'
-  duration: 122 minutes
+  description: In this lab, you will learn how to prepare and unify customer data in Customer Insights – Data, configure data types using Power Query, define primary keys and matching rules, and generate unified customer profiles. You will also learn how to use Copilot to create AI-assisted segmentation rules that automatically identify targeted customer groups based on behavioral and transactional data.
+  duration: 25 minutes
   level: 100
   islab: true
 ---
