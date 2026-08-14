@@ -2,7 +2,7 @@
 lab:
   title: Lab 1 Building a canvas app for a real estate solution
   description: In this lab, you'll create a mobile application by using Copilot in Power Apps. Field agents will use this app to browse real estate inventory and manage appointments for showings, and the data will be stored in Dataverse.
-  duration: 84 minutes
+  duration: 25 minutes
   level: 100
   islab: true
   primarytopics:
