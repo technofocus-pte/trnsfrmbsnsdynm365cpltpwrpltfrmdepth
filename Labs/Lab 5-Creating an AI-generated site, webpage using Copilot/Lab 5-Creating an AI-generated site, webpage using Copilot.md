@@ -1,8 +1,8 @@
 ---
 lab:
   title: Lab 5 Creating an AI generated site, webpage using Copilot
-  description: you will be on home page of your newly created website.
-  duration: 76 minutes
+  description: In this lab, you will learn how to use Copilot within Power Pages to rapidly create and customize a functional website. You will generate AI-driven site layouts, build new webpages, create interactive forms, and enhance content using AI-generated text. You will understand how Copilot accelerates web design, content creation, and component configuration.
+  duration: 25 minutes
   level: 100
   islab: true
 ---
