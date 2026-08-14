@@ -1,8 +1,8 @@
 ---
 lab:
   title: Lab 9 Composing emails, viewing email summary and opportunity summary
-  description: Pre-defined response categories are not available while composing a new email. You can only enter custom prompt or create an email to summarize your sales meeting.
-  duration: 130 minutes
+  description: In this lab, you will learn to compose emails, view email summary and opportunity summary in Outlook using Copilot for Sales 
+  duration: 20 minutes
   level: 100
   islab: true
 ---
