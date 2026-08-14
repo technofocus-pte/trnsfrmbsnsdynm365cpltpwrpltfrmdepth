@@ -1,8 +1,8 @@
 ---
 lab:
   title: Lab 8 Creating and deploying an agent facing copilot
-  description: 'Lab 8: Creating and deploying an agent-facing copilot with Microsoft Copilot for Service'
-  duration: 60 minutes
+  description: In this lab, you will learn to create and deploy an agent-facing copilot with Microsoft Copilot for Service'
+  duration: 20 minutes
   level: 100
   islab: true
   primarytopics:
