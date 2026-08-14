@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 12 Designing and styling emails with AI assisted themes
+  description: In this lab, you will learn how to design and style marketing emails using Copilot in Customer Insights – Journeys. You will learn how to enable Copilot features, use AI-generated content ideas to accelerate email creation, and apply theme customization tools to build branded email designs. You will also learn how to configure compliance elements, preview emails, and perform test sends to validate email styling and content before publishing.
+  duration: 20 minutes
+  level: 100
+  islab: true
+---
+
 Lab 12: Designing and styling emails with AI-assisted themes using
 Copilot in Customer Insights - Journeys
 

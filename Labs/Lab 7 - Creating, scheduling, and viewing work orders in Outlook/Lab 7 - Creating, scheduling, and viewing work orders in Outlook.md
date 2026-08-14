@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 7 Creating, scheduling, and viewing work orders in Outlook
+  description: In this lab, you will learn to Create, schedule, and view work orders in Outlook 
+  duration: 30 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Field Service
+---
+
 Lab 7: Creating, scheduling, and viewing work orders in Outlook using
 Copilot in Field Service
 

@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 14 Configuring and using Copilot in Dynamics 365 Business Central
+  description: In this lab, you will learn how to configure and use Copilot capabilities in Dynamics 365 Business Central. You will learn how to activate Copilot features, generate AI-assisted item analyses, draft marketing text, summarize product information, and automate bank reconciliation using Copilot-driven matching suggestions. These tasks enhance productivity and streamline core Business Central processes.
+  duration: 20 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
 Lab 14: Configuring and using Copilot in Dynamics 365 Business Central
 
 Exercise 1: Signing up for the trial

@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 15 Using Finance agents in Microsoft 365 Outlook (Preview)
+  description: In this lab, you will learn how to activate the Finance app, use demo mode to generate AI-powered email summaries, view ERP-linked customer details, and add notes directly from Outlook. Finance agents integrate Outlook with ERP data to streamline financial review and communication workflows.
+  duration: 20 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Microsoft 365
+---
+
 **Lab 15: Using Finance agents in Microsoft 365 Outlook (Preview)**
 
 **Task 1: Install Finance agents in Microsoft 365 Outlook from the

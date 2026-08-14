@@ -1,3 +1,12 @@
+---
+lab:
+  title: Lab 13 Creating AI Assisted customer journey with Copilot
+  description: In this lab, you will learn how to use Copilot in Customer Insights – Journeys to automatically build an AI-assisted customer journey. You will learn how to generate a multi-step journey from a natural language prompt, create and configure a segment, review Copilot-generated journey steps, assign emails to journey activities, configure journey frequency and start times, and publish a complete automated journey.
+  duration: 15 minutes
+  level: 100
+  islab: true
+---
+
 Lab 13: Creating AI-Assisted customer journey with Copilot in Customer
 Insights - Journeys
 

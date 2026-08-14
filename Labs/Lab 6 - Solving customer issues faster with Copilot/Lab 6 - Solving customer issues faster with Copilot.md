@@ -1,4 +1,15 @@
-Lab 6: Solving customer issues faster with Copilot in Dynamics 365
+---
+lab:
+  title: Lab 6 Solving customer issues faster with Copilot
+  description: In this lab, you will learn how to use Copilot in Dynamics 365 Customer Service to accelerate case resolution. You will learn how Copilot generates AI-driven case summaries, responds to technical and troubleshooting queries using available knowledge sources, and assists in drafting customer-ready emails through predefined and custom prompts. 
+  duration: 20 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
+---
+
+# Lab 6: Solving customer issues faster with Copilot in Dynamics 365
 Customer Service
 
 Exercise 1: Summarize cases

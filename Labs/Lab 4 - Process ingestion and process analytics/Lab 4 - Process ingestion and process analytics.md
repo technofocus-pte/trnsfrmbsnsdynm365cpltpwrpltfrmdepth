@@ -1,5 +1,13 @@
-Lab 4: Process ingestion and process analytics with Copilot in Process
-Mining (preview)
+---
+lab:
+  title: Lab 4: Process ingestion and process analytics with Copilot in Process Mining (preview)
+  description: In this lab, you will learn to ingest dat to create a process and get the process analytics with the help of Copilot 
+  duration: 20 minutes
+  level: 100
+  islab: true
+---
+
+# Lab 4: Process ingestion and process analytics with Copilot in Process Mining (preview)
 
 ## Exercise 1 - Process ingestion with Copilot in Process Mining
 
